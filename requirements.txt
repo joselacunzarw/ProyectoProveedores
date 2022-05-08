@@ -1,0 +1,9 @@
+Django==4.0
+psycopg2==2.9.3
+django-environ==0.8.1
+djangorestframework==3.13
+PyYAML==6.0
+Markdown==3.3.6
+Pygments==2.12
+django-filter==2.4
+django-simple-history
